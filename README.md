@@ -1,3 +1,4 @@
+HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 https://www.sanity.io/guides/how-to-use-structured-content-for-page-building
 
 DEPLOY ES
+
+# Artisan
+e29528eea6ed5274887f2305d30d91138a60a715
